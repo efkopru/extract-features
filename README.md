@@ -1,6 +1,6 @@
 # Overview
 
-src/main.py was originally written to run as a standalone script, but is now a collection of functions to be run in ArcGIS Pro for: 
+src/extract.py was originally written to run as a standalone script, but is now a collection of functions to be run in ArcGIS Pro for: 
 - generation of a local raster file from an imagery service
 - extraction of vector features from the local raster file. 
 
